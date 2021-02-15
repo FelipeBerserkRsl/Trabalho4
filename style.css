@@ -1,0 +1,18 @@
+.user{ background-color: #ddd;
+padding: 1rem;
+margin-bottom: 1rem;
+font-weight: bold;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+#app{
+
+    
+    background-color: #c23e3e;
+}
+
+body{
+    background-color: #c23e3e;
+}
+
